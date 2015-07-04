@@ -263,6 +263,15 @@ img {
 background: #3498db;
 }
 
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width:auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
 /* #page-portfolio {
     padding: 75px 0;
     background: #f8f8f8;
