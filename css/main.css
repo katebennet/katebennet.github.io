@@ -18,7 +18,7 @@ h4,
 h5,
 h6 {
     font-family: "Raleway","Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .topnav {
@@ -37,13 +37,9 @@ h6 {
     color: #f8f8f8;
     background: url(../img/gg_bridge.jpg) no-repeat center center;
     background-size: cover;
-    filter: grayscale(100%);
+    /*filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
-    opacity: 0.8;
-}
-
-.intro-header>background {
-    opacity: 0.4;
+    opacity: 0.8;*/
 }
 
 .navbar {
@@ -115,7 +111,7 @@ h6 {
 }
 
 .section-heading {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .section-heading-spacer {
