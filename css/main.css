@@ -193,10 +193,10 @@ img {
 }
 
 #grid .mix {
-    width: 325px;
-    height: 250px;
+    width: 315px;
+    height: 220px;
     vertical-align: top;
-    margin: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 30px;
     color: #fff;
     text-align: center;
 }
@@ -206,9 +206,10 @@ img {
     border-radius: 0;
 }
 #grid .mix .overlay {
-    width: 325px;
-    height: 215px;
-    margin-top: 20px;
+    width: 243px;
+    height: 153px;
+    margin-top: 39px;
+    margin-left: 36px;
     position: absolute;
     opacity: 0;
 	top:0;
@@ -264,7 +265,7 @@ img {
 
 .spacer,.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,#grid .mix .overlay {
 
-background: grey;
+background: #b3b3b3;
 }
 
 .white-popup {
