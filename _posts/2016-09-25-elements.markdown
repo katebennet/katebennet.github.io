@@ -1,0 +1,50 @@
+---
+title:  "Thoughts on..."
+subtitle: "The Elements of User Experience"
+author: "Kate Bennet"
+avatar: "img/authors/katebennet.png"
+image: "img/book.jpg"
+date:   2015-04-24 12:12:12
+---
+
+*The Elements of User Experience*, written by Jesse James Garrett, is essential reading for students of product design, scholars of usability, and parties interested in the logic behind websites and apps. Originally published 10 years ago, Garrett's book has since become a reference guide on balancing business goals with a cohesive user experience.
+
+Over the course of 160 pages Garrett guides readers through five planes that provide a conceptual framework for user experience problems. He advises practitioners to start on the bottom plane (Strategy), and that a plane cannot be finished before work on planes below it is completed. Without following this flow, projects will derail and costs will skyrocket.
+
+> > *“The important consideration here is to not build the roof of the house before you know the shape of its foundation."*
+
+### The Five Planes
+
+**1. Strategy:** ***the why***
+<br/>Why the site exists: what the business and users want to get out of it. Ask- what do we want to get out of this product? What do our users want to get out of it?
+<br/>Outputs: User needs, Product objectives with success metrics.
+<br/>Common tools: Market research, User testing, Contextual enquiry, Task analysis, Card sorting, Personas.
+
+**2. Scope:** ***the what***
+<br/>What the features and functions of the site are.
+<br/>Outputs: Functional specifications, Content requirements.
+
+**3. Structure:** ***the how***
+<br/>How the pieces fit together to form a cohesive whole.
+<br/>Outputs: Interaction design, Information architecture.
+
+**4. Skeleton:** ***the where***
+<br/>The arrangement of each element.
+<br/>Outputs: Information design, Interface design, Navigation design -> Wireframes.
+
+**5. Surface:** ***the sensory layer***
+<br/>Outputs: Style guide, Design Comps that create a sensory experience.
+<br/>Tools: Eyetracking, Typography, Color palettes.
+
+![Garrett's Five Planes](img/garrett_images.png){: .center-image }
+
+### Takeaways
+
+**Start by understanding the problem.**
+<br/>It’s easy to slip in to design by default, by mimicry or by fiat (personal preferences). Understand the problem you’re trying to solve, and the consequences of your solution to the problem.
+
+**Be conscious about decisions**
+<br/>Build a product that’s an asset, not a liability. Each component of a site- from the typography to architecture- has an impact on whether or not it will be successful. You should always be able to answer "why did you do it that way?""
+
+**Use the framework as a guide, not a manual.**
+<br/>*The Elements of User Experience* shouldn’t be taken as a step-by-step instruction manual- rather, it is a high level framework for thinking about design strategy. Some of its advice will rarely be followed, particularly in startups where teams are small, time is of the essence and design projects are due yesterday. Keep the theories in mind but know that in reality projects rarely go according to plan.
